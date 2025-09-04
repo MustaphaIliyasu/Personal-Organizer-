@@ -11,4 +11,3 @@ Contact Manager – Save and search contacts
 Library Manager – Add, borrow, and return books  
 Student Grades – Enter scores and calculate averages  
 
-Project Structure
